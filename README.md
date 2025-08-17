@@ -3,7 +3,9 @@
 A modern, comprehensive web application for Optical Character Recognition (OCR) using Tesseract OCR. Upload images or PDF files and extract text with high accuracy using an elegant, dark theme interface.
 
 **Author**: M Hamza Ummer
+<br>
 **Version**: 1.0.0
+<br>
 **License**: MIT
 
 ## ✨ Features
